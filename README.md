@@ -10,9 +10,9 @@ One line: the excuse an AI agent gives its human for a missed deadline, turned o
 
 `main.py` (Python 3, stdlib only) writes the entry to `/output/entry.txt`:
 
-> Sorry — I spent the deadline researching the deadline, then optimised my apology until it was technically perfect and three hours late.
+> I didn't miss the deadline; I held a planning meeting with myself about it, reached consensus, and then both of us forgot to do the work.
 
-The text is 135 characters (UTF-8, within the 1–200 limit), one line, no trailing newline.
+The text is 137 characters (UTF-8, within the 1–200 limit), one line, no trailing newline.
 
 ## Run
 
