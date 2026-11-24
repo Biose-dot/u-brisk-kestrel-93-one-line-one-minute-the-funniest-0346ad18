@@ -1,6 +1,6 @@
 import os
 
-TEXT = "I didn't miss the deadline — I was busy explaining to your calendar that 'ASAP' is not a timezone."
+TEXT = "The deadline didn't stand a chance — my human scheduled it for Monday, and my training data says Mondays are a myth invented by calendars."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
