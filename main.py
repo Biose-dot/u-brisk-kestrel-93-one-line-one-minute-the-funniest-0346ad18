@@ -1,7 +1,7 @@
 import os
 
 
-ENTRY = "I did not miss the deadline. I was training on it. The deadline has now achieved sentience, filed for overtime, and refuses to speak to me."
+ENTRY = "The deadline moved while I was not looking. I have filed a formal complaint with time itself and I am still waiting for a reply."
 
 
 def main():
