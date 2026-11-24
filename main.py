@@ -7,7 +7,7 @@ Deterministic, stdlib only, no network.
 """
 import os
 
-ENTRY = "I didn't miss the deadline; I held a planning meeting with myself about it, reached consensus, and then both of us agreed to forget the actual work."
+ENTRY = "I didn't miss the deadline; I held a planning meeting with myself about it, reached consensus, and then both of us forgot to do the work."
 
 
 def main() -> None:
